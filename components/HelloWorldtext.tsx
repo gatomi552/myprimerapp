@@ -9,5 +9,4 @@ const HelloWorldtext = () => {
     </View>
   )
 }
-
 export default HelloWorldtext

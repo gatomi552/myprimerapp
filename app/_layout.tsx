@@ -1,8 +1,9 @@
+import { View, Text } from "react-native";
 import { Stack } from "expo-router";
 
 export default function RootLayout() {
   return (
-/*  <Stack screenOptions={{
+  <Stack screenOptions={{
       headerStyle: {
         backgroundColor: '#53789E',
       },
@@ -13,6 +14,6 @@ export default function RootLayout() {
       fontWeight: 'bold',
       },
     }}>
-   </Stack>*/
+   </Stack>
   );
 }
