@@ -16,8 +16,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#30D5C8',
     alignItems: 'center',
     justifyContent: 'center',
-    width: '58%',
-    maxHeight: '32%',
+    width: '100%',
+    maxHeight: '100%',
   },
   Tex:{
     color: 'gray',
